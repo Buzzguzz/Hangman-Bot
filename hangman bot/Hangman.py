@@ -119,7 +119,7 @@ def run(answer, answer_len, words):
 
 
 
-answer = str(input("input the word > ")
+answer = str(input("input the word > "))
 answer_len = len(answer)
 
 run(answer, answer_len, words_perma)
